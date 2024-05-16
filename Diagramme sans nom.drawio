@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-16T14:20:33.265Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="FgyPLNHRI_SwULxp930C" version="24.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-16T14:27:42.043Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="hggyQ2bGpLTkcrPX9n7j" version="24.4.2" type="github">
   <diagram name="Page-1" id="4_qRCn8iwhOiS5vrPXUW">
-    <mxGraphModel dx="2261" dy="742" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3033" dy="1142" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -369,6 +369,96 @@
         </mxCell>
         <mxCell id="FO_r439dcO0VRPwI1_cU-73" value="Excel pour la comptabilité" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-62.5" y="650" width="225" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FO_r439dcO0VRPwI1_cU-74" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="900" y="160" as="sourcePoint" />
+            <mxPoint x="960" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FO_r439dcO0VRPwI1_cU-77" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="953" y="100" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="FO_r439dcO0VRPwI1_cU-75" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="FO_r439dcO0VRPwI1_cU-77">
+          <mxGeometry width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="FO_r439dcO0VRPwI1_cU-76" value="Machine Learning" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="FO_r439dcO0VRPwI1_cU-77">
+          <mxGeometry x="37" y="50" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FO_r439dcO0VRPwI1_cU-102" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.303;entryY=0.103;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="FO_r439dcO0VRPwI1_cU-77" target="FO_r439dcO0VRPwI1_cU-79">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="150" as="sourcePoint" />
+            <mxPoint x="160" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FO_r439dcO0VRPwI1_cU-78" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1020" y="260" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="FO_r439dcO0VRPwI1_cU-79" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="FO_r439dcO0VRPwI1_cU-78">
+          <mxGeometry width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="FO_r439dcO0VRPwI1_cU-80" value="Apprentissage Automatique" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="FO_r439dcO0VRPwI1_cU-78">
+          <mxGeometry x="37" y="50" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FO_r439dcO0VRPwI1_cU-84" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1090" y="420" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="FO_r439dcO0VRPwI1_cU-85" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="FO_r439dcO0VRPwI1_cU-84">
+          <mxGeometry width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="FO_r439dcO0VRPwI1_cU-86" value="Machine Learning" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="FO_r439dcO0VRPwI1_cU-84">
+          <mxGeometry x="37" y="50" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FO_r439dcO0VRPwI1_cU-87" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1260" y="290" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="FO_r439dcO0VRPwI1_cU-88" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="FO_r439dcO0VRPwI1_cU-87">
+          <mxGeometry width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="FO_r439dcO0VRPwI1_cU-89" value="Apprentissage par renforcement" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="FO_r439dcO0VRPwI1_cU-87">
+          <mxGeometry x="37" y="50" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FO_r439dcO0VRPwI1_cU-90" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="900" y="400" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="FO_r439dcO0VRPwI1_cU-91" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="FO_r439dcO0VRPwI1_cU-90">
+          <mxGeometry width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="FO_r439dcO0VRPwI1_cU-92" value="Apprentissage non supérviser" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="FO_r439dcO0VRPwI1_cU-90">
+          <mxGeometry x="37" y="50" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FO_r439dcO0VRPwI1_cU-93" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="990" y="600" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="FO_r439dcO0VRPwI1_cU-94" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="FO_r439dcO0VRPwI1_cU-93">
+          <mxGeometry width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="FO_r439dcO0VRPwI1_cU-95" value="Méthode fonctionnelles" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="FO_r439dcO0VRPwI1_cU-93">
+          <mxGeometry x="37" y="50" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FO_r439dcO0VRPwI1_cU-96" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1180" y="620" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="FO_r439dcO0VRPwI1_cU-97" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="FO_r439dcO0VRPwI1_cU-96">
+          <mxGeometry width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="FO_r439dcO0VRPwI1_cU-98" value="Méthode de Classification automatique" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="FO_r439dcO0VRPwI1_cU-96">
+          <mxGeometry x="37" y="50" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FO_r439dcO0VRPwI1_cU-99" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1240" y="180" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="FO_r439dcO0VRPwI1_cU-100" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="FO_r439dcO0VRPwI1_cU-99">
+          <mxGeometry width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="FO_r439dcO0VRPwI1_cU-101" value="Machine Learning" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="FO_r439dcO0VRPwI1_cU-99">
+          <mxGeometry x="37" y="50" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FO_r439dcO0VRPwI1_cU-103" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.13;exitY=0.77;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.625;entryY=0.2;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="FO_r439dcO0VRPwI1_cU-79" target="FO_r439dcO0VRPwI1_cU-91">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="920" y="180" as="sourcePoint" />
+            <mxPoint x="980" y="180" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
