@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-16T14:27:42.043Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="hggyQ2bGpLTkcrPX9n7j" version="24.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-16T14:28:59.160Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="7L3CBWsgD09pe8b2xi9Q" version="24.4.2" type="github">
   <diagram name="Page-1" id="4_qRCn8iwhOiS5vrPXUW">
     <mxGraphModel dx="3033" dy="1142" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -400,8 +400,14 @@
         <mxCell id="FO_r439dcO0VRPwI1_cU-80" value="Apprentissage Automatique" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="FO_r439dcO0VRPwI1_cU-78">
           <mxGeometry x="37" y="50" width="100" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="FO_r439dcO0VRPwI1_cU-104" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="FO_r439dcO0VRPwI1_cU-78">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="108" y="150" as="sourcePoint" />
+            <mxPoint x="120" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="FO_r439dcO0VRPwI1_cU-84" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1090" y="420" width="160" height="160" as="geometry" />
+          <mxGeometry x="1110" y="440" width="160" height="160" as="geometry" />
         </mxCell>
         <mxCell id="FO_r439dcO0VRPwI1_cU-85" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="FO_r439dcO0VRPwI1_cU-84">
           <mxGeometry width="160" height="160" as="geometry" />
@@ -458,6 +464,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="920" y="180" as="sourcePoint" />
             <mxPoint x="980" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FO_r439dcO0VRPwI1_cU-105" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.8;exitY=0.8;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="FO_r439dcO0VRPwI1_cU-91">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1061" y="403" as="sourcePoint" />
+            <mxPoint x="1050" y="610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
