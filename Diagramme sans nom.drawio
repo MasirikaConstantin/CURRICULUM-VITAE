@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-16T14:33:48.942Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="60nzZukRnZRcfPREPhzw" version="24.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-16T14:35:41.125Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="119FicZGEdRfzUyHR8UA" version="24.4.2" type="github">
   <diagram name="Page-1" id="4_qRCn8iwhOiS5vrPXUW">
     <mxGraphModel dx="3033" dy="1142" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -522,6 +522,24 @@
             <mxPoint x="1304" y="574" as="sourcePoint" />
             <mxPoint x="1470" y="722" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="FO_r439dcO0VRPwI1_cU-117" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.55;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="FO_r439dcO0VRPwI1_cU-85">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1154" y="735" as="sourcePoint" />
+            <mxPoint x="1320" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FO_r439dcO0VRPwI1_cU-118" value="&lt;div&gt;Réseau de neurones&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="620" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FO_r439dcO0VRPwI1_cU-119" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.55;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1250" y="520" as="sourcePoint" />
+            <mxPoint x="1372" y="548" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FO_r439dcO0VRPwI1_cU-120" value="Arbre" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="540" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
