@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-16T14:39:07.838Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="wxfO27QDa9ELkt2pNDap" version="24.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-16T14:39:28.127Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="pjZa8-YrRxlaY0efi-dH" version="24.4.2" type="github">
   <diagram name="Page-1" id="4_qRCn8iwhOiS5vrPXUW">
-    <mxGraphModel dx="6114" dy="1349" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="4945" dy="1349" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -368,10 +368,13 @@
           <mxGeometry x="353.6923076923077" y="724.0914285714285" width="164.4230769230769" height="27.085714285714285" as="geometry" />
         </mxCell>
         <mxCell id="FO_r439dcO0VRPwI1_cU-71" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;rotation=90;" vertex="1" parent="FO_r439dcO0VRPwI1_cU-124">
-          <mxGeometry x="95" y="462.2628571428571" width="14.615384615384615" height="252.79999999999998" as="geometry" />
+          <mxGeometry x="107.53" y="474.79" width="14.62" height="227.74" as="geometry" />
         </mxCell>
         <mxCell id="FO_r439dcO0VRPwI1_cU-72" value="Système transactionnel ou système Oparationnel ou OLPT ( Online transaction processing)" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="FO_r439dcO0VRPwI1_cU-124">
           <mxGeometry x="20.096153846153847" y="611.2342857142856" width="164.4230769230769" height="27.085714285714285" as="geometry" />
+        </mxCell>
+        <mxCell id="FO_r439dcO0VRPwI1_cU-126" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="FO_r439dcO0VRPwI1_cU-124" source="FO_r439dcO0VRPwI1_cU-73" target="FO_r439dcO0VRPwI1_cU-72">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FO_r439dcO0VRPwI1_cU-73" value="Excel pour la comptabilité" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="FO_r439dcO0VRPwI1_cU-124">
           <mxGeometry x="5.480769230769231" y="543.52" width="164.4230769230769" height="27.085714285714285" as="geometry" />
